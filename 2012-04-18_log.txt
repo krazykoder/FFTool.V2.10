@@ -1,0 +1,1218 @@
+
+==============================================
+Log: 2012-04-18 11:29:06
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+==============================================
+Log: 2012-04-18 14:29:59
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\arrayCell.gif
+
+Image 373 x 384
+
+Resizing Image to 256x256 ...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 23 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 39 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\arrayCell.gif
+
+Image 373 x 384
+
+Resizing Image to 256x256 ...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 82 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 74 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 52 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 77 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\arrayCell1.jpg
+
+Image 279 x 291
+
+Resizing Image to 256x256 ...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 107 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 82 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 158 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 77 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 123 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 148 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 109 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 166 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 143 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\arrayCell2.jpg
+
+Image 280 x 288
+
+Resizing Image to 256x256 ...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 164 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 101 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 168 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 180 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 71 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 128 Mb
+
+Dumping memory:
+
+Memory Usage : 199 Mb
+
+Avl. mem b/f gc() : 48830 kB
+
+Avl. mem a/f gc() : 184023 kB
+
+Garbage collection freed : 135192 kB (132 Mb)
+
+Dumping memory:
+
+Memory Usage : 69 Mb
+
+Avl. mem b/f gc() : 182627 kB
+
+Avl. mem a/f gc() : 232766 kB
+
+Garbage collection freed : 50139 kB (48 Mb)
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 100 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 148 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 131 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 190 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 139 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\arrayCell1.jpg
+
+Image 279 x 291
+
+Resizing Image to 256x256 ...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 221 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 173 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 140 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 169 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 201 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 210 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 169 Mb
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 188 Mb
+
+All rods reset.
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 164 Mb
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 187 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 232 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 119 Mb
+
+Dumping memory:
+
+Memory Usage : 122 Mb
+
+Avl. mem b/f gc() : 127631 kB
+
+Avl. mem a/f gc() : 232091 kB
+
+Garbage collection freed : 104460 kB (102 Mb)
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 127 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 136 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 126 Mb
+
+Initial Image found...
+
+Memory Usage : 21 Mb
+
+Avl. mem b/f gc() : 160126 kB
+
+Avl. mem a/f gc() : 46782 kB
+
+Garbage collection freed : -113344 kB (-110 Mb)
+
+==============================================
+Log: 2012-04-18 15:37:44
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 23 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 77 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 89 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 105 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 129 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 101 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 107 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 192 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 142 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 151 Mb
+
+All rods reset.
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 163 Mb
+
+Rect Selected
+
+Rect Selected
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\arrayCell2.jpg
+
+Image 280 x 288
+
+Resizing Image to 256x256 ...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool_256.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\arrayCell1.jpg
+
+Image 279 x 291
+
+Resizing Image to 256x256 ...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool_256.jpg
+
+
+==============================================
+Log: 2012-04-18 15:47:41
+==============================================
+Initial Image found...
+Memory Usage : 149 Mb
+Avl. mem b/f gc() : 100619 kB
+Avl. mem a/f gc() : 193321 kB
+Garbage collection freed : 92701 kB (90 Mb)
+Logged @ G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10/2012-04-18_log.txtInitial Image found...
+
+Memory Usage : 149 Mb
+
+Avl. mem b/f gc() : 100619 kB
+
+Avl. mem a/f gc() : 193321 kB
+
+Garbage collection freed : 92701 kB (90 Mb)
+
+Logged @ G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10/2012-04-18_log.txt
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 101 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 185 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 215 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT004_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 175 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 211 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Initial Image found...
+
+Memory Usage : 144 Mb
+
+Avl. mem b/f gc() : 105800 kB
+
+Avl. mem a/f gc() : 209154 kB
+
+Garbage collection freed : 103353 kB (100 Mb)
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 69 Mb
+
+==============================================
+Log: 2012-04-18 17:20:11
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT002.01.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT002.01.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT010.01.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 30 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 86 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT005.01.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 130 Mb
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 123 Mb
+
+All rods reset.
+
+All rods reset.
+
+All rods reset.
+
+All rods reset.
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 158 Mb
+
+==============================================
+Log: 2012-04-18 18:43:12
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\arrayCell1.jpg
+
+Image 279 x 291
+
+Resizing Image to 256x256 ...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 26 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 73 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 154 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 106 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 129 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 190 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT002.01.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Initial Image found...
+
+Memory Usage : 168 Mb
+
+Avl. mem b/f gc() : 56138 kB
+
+Avl. mem a/f gc() : 185073 kB
+
+Garbage collection freed : 128934 kB (125 Mb)
+
+Starting FFT..
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 88 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 93 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 162 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 159 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT020.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 152 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 203 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 177 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 153 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 116 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 142 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 166 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\arrayCell1.jpg
+
+Image 279 x 291
+
+Initial Image found...
+
+Memory Usage : 212 Mb
+
+Avl. mem b/f gc() : 35660 kB
+
+Avl. mem a/f gc() : 180718 kB
+
+Garbage collection freed : 145058 kB (141 Mb)
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 98 Mb
+
+==============================================
+Log: 2012-04-18 21:20:44
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+==============================================
+Log: 2012-04-18 21:21:30
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+==============================================
+Log: 2012-04-18 21:28:23
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+==============================================
+Log: 2012-04-18 21:28:52
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+
+	at FFTool_M.DesktopApplication1View.jMenuItem12ActionPerformed(DesktopApplication1View.java:3489)
+
+	at FFTool_M.DesktopApplication1View.access$6500(DesktopApplication1View.java:31)
+
+	at FFTool_M.DesktopApplication1View$45.actionPerformed(DesktopApplication1View.java:2582)
+
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+
+	at javax.swing.AbstractButton.doClick(Unknown Source)
+
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+
+	at java.awt.Component.processMouseEvent(Unknown Source)
+
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+
+	at java.awt.Component.processEvent(Unknown Source)
+
+	at java.awt.Container.processEvent(Unknown Source)
+
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+
+	at java.awt.Component.dispatchEvent(Unknown Source)
+
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+
+	at java.awt.Component.dispatchEvent(Unknown Source)
+
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+
+	at java.awt.EventQueue.access$000(Unknown Source)
+
+	at java.awt.EventQueue$1.run(Unknown Source)
+
+	at java.awt.EventQueue$1.run(Unknown Source)
+
+	at java.security.AccessController.doPrivileged(Native Method)
+
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+
+	at java.awt.EventQueue$2.run(Unknown Source)
+
+	at java.awt.EventQueue$2.run(Unknown Source)
+
+	at java.security.AccessController.doPrivileged(Native Method)
+
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 24 Mb
+
+Dumping memory:
+
+Memory Usage : 26 Mb
+
+Avl. mem b/f gc() : 2501 kB
+
+Avl. mem a/f gc() : 27145 kB
+
+Garbage collection freed : 24643 kB (24 Mb)
+
+Dumping memory:
+
+Memory Usage : 19 Mb
+
+Avl. mem b/f gc() : 26394 kB
+
+Avl. mem a/f gc() : 28117 kB
+
+Garbage collection freed : 1722 kB (1 Mb)
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT010.01.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 29 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT011.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT016.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT004_256.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT007_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 41 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 91 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 69 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 114 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 90 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 92 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 84 Mb
+
+All rods reset.
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 110 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 86 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 134 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\arrayCell1.jpg
+
+Image 279 x 291
+
+Resizing Image to 256x256 ...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 127 Mb
+
+All rods reset.
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 109 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 73 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 145 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 107 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 150 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 150 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 126 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 171 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 149 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 138 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 169 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 154 Mb
+
+All rods reset.
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 147 Mb
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 181 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 180 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 175 Mb

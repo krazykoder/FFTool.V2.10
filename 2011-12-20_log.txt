@@ -1,0 +1,31 @@
+
+==============================================
+Log: 2011-12-20 19:36:23
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 28 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 58 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 109 Mb

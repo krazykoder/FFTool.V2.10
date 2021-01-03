@@ -1,0 +1,347 @@
+
+==============================================
+Log: 2012-02-28 19:37:29
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 101 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT015.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 134 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT016.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT016.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 117 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT017.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 239 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT019.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 285 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT020.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 300 Mb
+
+Error Loading file
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT002.01.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 94 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT007_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 148 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT011.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 163 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT015.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 224 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT020.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 272 Mb
+
+Error Loading file
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT019.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT018.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 327 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT017.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 95 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT016.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 158 Mb
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 202 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT019.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 259 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT017.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 286 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT004_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 170 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 125 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT007_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 299 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT019.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 348 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 163 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 149 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 254 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT004_256.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT002.01.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 311 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 166 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 229 Mb

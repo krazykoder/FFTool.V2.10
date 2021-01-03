@@ -1,0 +1,6 @@
+del FFTool.bat
+@echo off
+dir c:\"Program files" /s /b | find "java.exe" >>out.txt
+FOR /F "tokens=1 delims=" %%A in (out.txt) do SET results=%%A
+echo "%results%" -jar FFTool_M.jar>> FFTool.bat
+del out.txt

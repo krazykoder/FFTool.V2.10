@@ -1,0 +1,13 @@
+
+==============================================
+Log: 2011-10-29 14:33:24
+==============================================
+Initial Image found...
+
+Memory Usage : 168 Mb
+
+Avl. mem b/f gc() : 204097 kB
+
+Avl. mem a/f gc() : 370417 kB
+
+Garbage collection freed : 166320 kB (162 Mb)

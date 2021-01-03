@@ -1,0 +1,89 @@
+
+==============================================
+Log: 2011-10-23 10:11:15
+==============================================
+Initial Image found...
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT020.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT018.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT015.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT010.01.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT015.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT007_256.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT004_256.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 63 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 248 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 229 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 246 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 114 Mb
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT004_256.jpg
+
+Input Image : 256 x 256 pixels
+
+G:\Java-Lo-optimization-tool-Explore\Jar-exe-trials\FinalExe_FFTool\FFTool.V2.10\images\PAT002.01.jpg
+
+Input Image : 256 x 256 pixels
+
+Initial Image found...
+
+Memory Usage : 33 Mb
+
+Avl. mem b/f gc() : 368499 kB
+
+Avl. mem a/f gc() : 378170 kB
+
+Garbage collection freed : 9671 kB (9 Mb)

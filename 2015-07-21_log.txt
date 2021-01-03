@@ -1,0 +1,105 @@
+
+==============================================
+Log: 2015-07-21 12:11:51
+==============================================
+Initial Image found...
+
+H:\random_code\AlgoFFLo\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 47 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 916 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 600 Mb
+
+H:\random_code\AlgoFFLo\FFTool.V2.10\images\pat011.jpg
+
+Input Image : 256 x 256 pixels
+
+H:\random_code\AlgoFFLo\FFTool.V2.10\images\PAT005.01.jpg
+
+Input Image : 256 x 256 pixels
+
+Starting FFT..
+
+X-Spectrum Calculated
+
+Y-Spectrum Calculated
+
+Data set to SpectaPlot
+
+Memory Usage #01 : 787 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 1200 Mb
+
+Inverse Fourier transform started...
+
+Inverse Fourier transform. Done
+
+Memory Usage #02 : 1186 Mb
+
+Rect Selected
+
+Dumping memory:
+
+Memory Usage : 1311 Mb
+
+Avl. mem b/f gc() : 149275 kB
+
+Avl. mem a/f gc() : 1364512 kB
+
+Garbage collection freed : 1215237 kB (1186 Mb)
+
+Dumping memory:
+
+Memory Usage : 137 Mb
+
+Avl. mem b/f gc() : 1339370 kB
+
+Avl. mem a/f gc() : 1285955 kB
+
+Garbage collection freed : -53415 kB (-52 Mb)
+
+Dumping memory:
+
+Memory Usage : 40 Mb
+
+Avl. mem b/f gc() : 1265639 kB
+
+Avl. mem a/f gc() : 1464159 kB
+
+Garbage collection freed : 198519 kB (193 Mb)
+
+Dumping memory:
+
+Memory Usage : 39 Mb
+
+Avl. mem b/f gc() : 1443895 kB
+
+Avl. mem a/f gc() : 1463646 kB
+
+Garbage collection freed : 19751 kB (19 Mb)
+
+All rods reset.
